@@ -1,4 +1,4 @@
 # Arquitectura y Organización del Computador
 Bienvenides 👋 al espacio de github de la materia Arquitectura y Organización del Computador (ex. Orga2) del Departamento de Computación de la Facultad de Ciencias Exactas y Naturales, UBA.
 
-En esta organizazción se concentran las guías y trabajos prácticos de la materia.
+En esta organización se concentran las guías y trabajos prácticos de la materia.
