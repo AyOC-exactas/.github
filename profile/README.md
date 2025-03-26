@@ -5,7 +5,7 @@ En esta organización se concentran las guías y trabajos prácticos de la mater
 
 ----
 
-# Inscripción al classroom
+# Inscripción al classroom y acceso a TPs
 
 Utilizaremos [Github Classrooms](https://classroom.github.com/classrooms) para los trabajos prácticos de la materia. 
 Para unirse al classroom del cuatrimestre deberán utilizar los links provistos por la cátedra en el discord privado de la materia.
